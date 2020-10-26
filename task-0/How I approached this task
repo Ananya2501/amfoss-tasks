@@ -1,0 +1,5 @@
+# amfoss-tasks
+Repository for amfoss tasks
+I downloaded Ubuntu desktop from the Ubuntu website. Then with the Rufus tool I made a bootable USB.
+After restarting the computer, in the welcome window, I selected the language and proceeded to installing Ubuntu.
+Here I had encoutered a error, It said to turn off the bitlocker. So I did the required and did the previous steps again and installed Ubuntu.
