@@ -1,0 +1,13 @@
+c=int(input(""))
+for i in range(c):
+    k=int(input(""))
+    sent=input("")
+    sum=0
+    l=sent.split()
+    if len(l)<k:
+            sum=-1
+    else:
+            w=l[k]
+            for j in w:
+                sum+=ord(j)
+    print(sum)
